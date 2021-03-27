@@ -1,2 +1,2 @@
-# Richard-Card-Classifier
+# Recharge-Card-Classifier
 Machine Learning Algorithm that classifies Recharge cards/ airtime based on service provider
